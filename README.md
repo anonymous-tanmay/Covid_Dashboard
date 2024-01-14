@@ -19,7 +19,7 @@ This repository contains code for a COVID-19 global analysis dashboard. It provi
 3. Run the application: `python app.py`
 
 ## Screenshots
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](Covid_Dashboard_Project.jpg)
 
 ## Data Sources
 - World Health Organization (WHO)
