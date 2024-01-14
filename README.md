@@ -29,7 +29,7 @@ This repository contains code for a COVID-19 global analysis dashboard. It provi
 Feel free to contribute by opening issues or submitting pull requests.
 
 ## License
-Tanmay Raj[MIT License](LICENSE).
+Tanmay Raj©
 
 ## Acknowledgements
 Special thanks to the data providers and contributors to open-source libraries used in this project.
