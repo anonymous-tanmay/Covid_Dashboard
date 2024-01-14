@@ -1,4 +1,4 @@
-# COVID-19 Global Analysis Dashboard
+# 🅲🅾🆅🅸🅳-19 🅶🅻🅾🅱🅰🅻 🅰🅽🅰🅻🆈🆂🅸🆂 🅳🅰🆂🅷🅱🅾🅰🆁🅳
 
 ## Overview
 This repository contains code for a COVID-19 global analysis dashboard. It provides visualizations and insights into the global pandemic.
@@ -30,6 +30,8 @@ This repository contains code for a COVID-19 global analysis dashboard. It provi
 ## Contribution
 Feel free to contribute by opening issues or submitting pull requests.
 
+## Project Goal
+-  The goal is to provide user-friendly interface for individuals and Healthcare professionals.
 ## License
 Tanmay Raj©
 
