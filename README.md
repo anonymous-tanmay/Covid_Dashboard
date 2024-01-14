@@ -1,4 +1,4 @@
-# 🅲🅾🆅🅸🅳-19_𝔾𝕝𝕠𝕓𝕒𝕝 𝔸𝕟𝕒𝕝𝕪𝕤𝕚𝕤_🅳🅰🆂🅷🅱🅾🅰🆁🅳
+# 🅲🅾🆅🅸🅳_19_𝔾𝕝𝕠𝕓𝕒𝕝_𝔸𝕟𝕒𝕝𝕪𝕤𝕚𝕤_🅳🅰🆂🅷🅱🅾🅰🆁🅳
 
 ## 𝓞𝓿𝓮𝓻𝓿𝓲𝓮𝔀 :
 This repository contains code for a COVID-19 global analysis dashboard. It provides visualizations and insights into the global pandemic.
