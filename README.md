@@ -23,6 +23,8 @@ This repository contains code for a COVID-19 global analysis dashboard. It provi
 
 ## Data Sources
 - World Health Organization (WHO)
+
+## Accomodation
 - Dr. APJ Abdul Kalam Technical University
 
 ## Contribution
