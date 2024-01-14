@@ -14,7 +14,7 @@ This repository contains code for a COVID-19 global analysis dashboard. It provi
 - Data Visualization: Power BI 
 
 ## Setup
-1. Clone the repository: `git clone https://github.com/anonymous-tanmay/Covid_Dashboard.pbix`
+1. Clone the repository: `git clone Covid_Dashboard.pbix`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the application: `python app.py`
 
